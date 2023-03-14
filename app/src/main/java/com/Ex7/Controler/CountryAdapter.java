@@ -117,7 +117,7 @@ public class CountryAdapter extends
     }
 
 
-
+//
 
     public void bindData(Country country,ViewHolder holder){
         int id = context.getResources().getIdentifier(country.getFlag(), "drawable", context.getPackageName());
