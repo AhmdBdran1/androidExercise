@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">World Explorer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    /*dialogs options*/
+    <string name="alert_dialog_ok">Yes</string>
+    <string name="alert_dialog_cancel">No</string>
+    <string name="alert_dialog_two_buttons_title">Closing the application</string>
+    <string name="alert_title">Are you sure?</string>
+</resources>
